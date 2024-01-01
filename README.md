@@ -1,8 +1,6 @@
-Please find the attached assignment(the first image) to be completed for the next round of interviews. This needs to be created exactly as it's shown and coded using plain HTML and CSS, without using any library or frameworks like Bootstrap, Material UI, etc.
+### Please find the attached assignment(the first image) to be completed for the next round of interviews. This needs to be created exactly as it's shown and coded using plain HTML and CSS, without using any library or frameworks like Bootstrap, Material UI, etc.
 
-The webpage must be fully responsive in various zoom levels and window resize and should support all three devices (desktop, tablet, and mobile).
-Please mail us the HTML and CSS files in a zipped folder. You can also send us a live link in case you upload it on some platform like GitHub.
-
+### The webpage must be fully responsive in various zoom levels and window resize and should support all three devices (desktop, tablet, and mobile).
 
 NOTE: The parameters for the Front End Developer (HTML, CSS) assignment.
 The website should match the design.
